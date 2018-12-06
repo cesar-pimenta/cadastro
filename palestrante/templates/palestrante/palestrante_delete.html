@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load bootstrap %}
+
+{% block main %}
+
+    <main class="container mt-5">
+        <section class="rounded border shadow pt-4 pr-4 pl-4 pb-4 col-md-10 offset-md-1">
+            <h3> Tem certeza que deseja deletar o cadastro de <strong>{{ palestrante.palestrante }}</strong> ?</h3>
+            <article class="text-center">
+                <form method="POST" ENCTYPE="multipart/form-data">
+                    {% csrf_token %}
+                    <a class="btn btn-secondary mt-5" href="{% url 'palestrante_list' %}">NAO</a>
+                    <button class="btn btn-danger mt-5" type="submit"> SIM </button>
+                </form>
+            </article>
+        </section>
+    </main>
+
+{% endblock %}

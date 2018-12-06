@@ -1,0 +1,86 @@
+{% extends 'base.html' %}
+{% load bootstrap %}
+
+{% block main %}
+
+    <section class="container mb-5 w-75">
+        <div class="mt-5 mb-3 card shadow-sm">
+            <div class="card-body row p-5">
+                <div class="col-12 mb-3">
+                    <h1>{{ object.palestrante }}</h1>
+                </div>
+                <div class="col-md-5 m-md-2">
+                    <div class="row">
+                        <div class="col-12">
+                            <h5>
+                                E-mail
+                            </h5>
+                        </div>
+                        <div class="col-12 border rounded p-3">
+                            {{ object.email }}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5 m-md-2">
+                    <div class="row">
+                        <div class="col-12">
+                            <h5>
+                                Telefone para contato
+                            </h5>
+                        </div>
+                        <div class="col-12 border rounded p-3">
+                            {{ object.telefone }}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5 m-md-2">
+                    <div class="row">
+                        <div class="col-12">
+                            <h5>
+                                Tema
+                            </h5>
+                        </div>
+                        <div class="col-12 border rounded p-3">
+                            {{ object.tema }}
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-5 m-md-2">
+                    <div class="row">
+                        <div class="col-12">
+                            <h5>
+                                Cargo
+                            </h5>
+                        </div>
+                        <div class="col-12 border rounded p-3">
+                            {{ object.cargo }}
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-5 col-12">
+                    <div class="row">
+                        <div class="col-12">
+                            <h5>
+                                Resumo sobre o Palestrante
+                            </h5>
+                        </div>
+                        <div class="col-12 border rounded p-3">
+                            {{ object.resumo }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="btn btn-secondary" href="{% url 'palestrante_list' %}">
+            Voltar
+        </a>
+        <a class="btn btn-info" href="{% url 'palestrante_update' palestrante.id %}">
+            Editar
+        </a>
+        <a class="btn btn-danger" href="{% url 'palestrante_delete' palestrante.id %}">
+            Deletar
+        </a>
+    </section>
+
+{% endblock %}
