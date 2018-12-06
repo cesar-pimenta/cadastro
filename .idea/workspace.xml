@@ -2,88 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="006ef05d-177e-4010-9ae2-d70647207b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/resources.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/templates/palestrante.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/templates/palestrante/palestrante_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/templates/palestrante/palestrante_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/templates/palestrante/palestrante_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/templates/palestrante/palestrante_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/templates/palestrante/palestrante_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palestrante/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/auto.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/brands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/brands.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/fontawesome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/fontawesome.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/regular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/regular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/solid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/solid.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/v4-shims.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/js/v4-shims.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/abrapp bco sem razao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/abrapp color sem razao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/abrapp color sem razao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/abrapp pb sem razao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/abrapp pto sem razao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/banner1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/bannerprin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/imgbanner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statics/media/techback.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/_pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cadastro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cadastro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palestrante/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/palestrante/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palestrante/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/palestrante/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/palestrante/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/palestrante/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastro/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/cadastro/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,44 +29,120 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Procfile" value="8" />
           <entry key="html" value="2471" />
-          <entry key="py" value="2953" />
+          <entry key="py" value="2981" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="DjangoUrlPath" value="6" />
           <entry key="HTML" value="2465" />
-          <entry key="Python" value="2953" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="2981" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Procfile" value="1" />
           <entry key="css" value="2" />
+          <entry key="env" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="39" />
           <entry key="js" value="2" />
-          <entry key="py" value="57" />
+          <entry key="py" value="60" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key=".env file" value="1" />
           <entry key="CSS" value="2" />
           <entry key="HTML" value="39" />
           <entry key="JavaScript" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="57" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="60" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="17">
+              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cadastro/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#309#318#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements-dev.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cadastro/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <folding>
+                <element signature="e#224#233#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,13 +186,19 @@
         <option value="$PROJECT_DIR$/palestrante/resources.py" />
         <option value="$PROJECT_DIR$/templates/_paginator.html" />
         <option value="$PROJECT_DIR$/templates/_pagination.html" />
-        <option value="$PROJECT_DIR$/cadastro/settings.py" />
         <option value="$PROJECT_DIR$/palestrante/admin.py" />
         <option value="$PROJECT_DIR$/palestrante/models.py" />
         <option value="$PROJECT_DIR$/palestrante/mixins.py" />
         <option value="$PROJECT_DIR$/palestrante/views.py" />
         <option value="$PROJECT_DIR$/palestrante/templates/palestrante/palestrante_list.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/cadastro/wsgi.py" />
+        <option value="$PROJECT_DIR$/requirements-dev.txt" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/cadastro/settings.py" />
       </list>
     </option>
   </component>
@@ -221,6 +227,11 @@
           <expand>
             <path>
               <item name="cadastro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cadastro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cadastro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cadastro" type="462c0819:PsiDirectoryNode" />
               <item name="cadastro" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -311,7 +322,7 @@
     <frame x="-6" y="0" width="1037" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17502558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17502558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,8 +335,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36441892" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50051177" side_tool="true" weight="0.3629842" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49948823" visible="true" weight="0.3629842" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -481,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cadastro/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -638,6 +642,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastro/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="e#224#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements-dev.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#309#318#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
