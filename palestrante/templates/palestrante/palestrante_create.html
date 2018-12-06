@@ -16,12 +16,11 @@
                                 {% csrf_token %}
                                 {{ form|bootstrap }}
                                 <a href="{% url 'palestrante_list' %}" style="text-decoration: none">
-                                    <button class="btn btn-sm btn-danger col-md-3 offset-md-1 fa fa-ban" type="button">
+                                    <button class="btn btn-sm btn-danger col-md-3 offset-md-1" type="button">
                                         Cancelar
                                     </button>
                                 </a>
                                 <button class="btn btn-sm btn-primary col-md-3 offset-md-4" type="submit">
-                                    <i class="fa fa-dot-circle-o" data-toggle="modal"></i>
                                     Salvar
                                 </button>
                             </form>
