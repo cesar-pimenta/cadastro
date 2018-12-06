@@ -6,7 +6,7 @@ from django.utils.formats import number_format
 class Palestrante(models.Model):
     tema = models.CharField(max_length=100, null=True, blank=True,)
     palestrante = models.CharField(max_length=100, null=True, blank=True,)
-    cargo = models.CharField(max_length=100, null=True, blank=True,)
+    cargo = models.CharField(max_length=500, null=True, blank=True,)
     resumo = models.TextField(null=True, blank=True,)
     email = models.CharField(max_length=100, null=True, blank=True,)
     telefone = models.CharField(max_length=100, null=True, blank=True,)
